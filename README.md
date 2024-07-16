@@ -164,6 +164,7 @@ form input[type=button]{
 }
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/d6d98e24-7253-441f-b345-8b11d2b493f5)
+![image](https://github.com/user-attachments/assets/7ef05195-dbb2-4f5a-8f0f-dd511befa520)
+
 ### RESULT
 Thus the program has been completed successfully.
